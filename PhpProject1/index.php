@@ -10,8 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-        bugrao eo
+        <?php echo 'bugrao eo';
         ?>
     </body>
 </html>
